@@ -1,0 +1,14 @@
+Aula 13/03/19
+
+MySQL: relacional
+NoSQL
+SGBD ->(SQL) Aplicação(PHP) 
+SGBD <- Aplicação(PHP) 
+Apache: servidor web (via navegador) localhost/phpmyadmin
+PHP
+MySQL
+Windows: XAMPP, LAMP, WAMP
+A.I - Auto Increment (marcar na coluna chave primaria(dados unicos que nao se repetem))
+
+INSERT INTO Fornecedor (Nome, Email) VALUES ("Coca", "coca@a.com")
+Formato data: "2019/03/13"
