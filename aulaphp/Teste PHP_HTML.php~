@@ -1,0 +1,14 @@
+<html>
+	<head><title>PHP teste for</title></head>
+        <body>
+	<?php	
+		echo "<table border=1>";
+		for($i=0 ; $i<10; $i++){
+			echo "<tr>";
+			echo "	<td> conteúdo </td>";
+			echo "	<td> conteúdo </td>";
+			echo "	<td> conteúdo </td>";
+			echo "</tr>";
+		}
+	echo "</table>";
+	?>

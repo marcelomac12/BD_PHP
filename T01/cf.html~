@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>Controle BD Filmes</title>
+		<link rel="stylesheet" type="text/css" href="style/style.css"/>
+	</head>
+	<body background="imagem02.png" link="black" vlink="purple" alink="red" bgproperties="fixed" bgcolor="black" text="black">
+		<center>
+			<h3>CONTROLE BD FILMES
+			<h3><a href="Forminserir.php">INSERIR FILME
+			<h3><a href="apagarfilme.html">APAGAR FILME
+		</center>
+	</body>
+</html>
